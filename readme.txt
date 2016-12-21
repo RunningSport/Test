@@ -9,3 +9,4 @@ Git create branch in sourcetree.
 Git see in sourcetree.
 Git stash apply.
 Git in branch, and stash
+Git add a branch named Mac.
