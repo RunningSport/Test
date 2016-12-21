@@ -5,8 +5,8 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick & simple.
 Git branch to dev.
-Git create branch in sourcetree.
-Git see in sourcetree.
+Git create branch in SourceTree.
+Git see in SourceTree.
 Git stash apply.
 Git in branch, and stash
-Git add a branch named Mac.
+Git add a branch which named Mac.
