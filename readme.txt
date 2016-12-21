@@ -8,3 +8,4 @@ Git branch to dev.
 Git create branch in sourcetree.
 Git see in sourcetree.
 Git stash apply.
+Git in branch, and stash
