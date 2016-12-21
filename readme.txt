@@ -8,5 +8,5 @@ Git branch to dev.
 Git create branch in SourceTree.
 Git see in SourceTree..
 Git stash apply.
-Git in branch, and stash
+Git in branch, and stash.
 Git add a branch which named Mac.
