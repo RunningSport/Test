@@ -7,4 +7,4 @@ Creating a new branch is quick & simple.
 Git branch to dev.
 Git create branch in sourcetree.
 Git see in sourcetree.
-Git stash apply.
+Git stash apply..
